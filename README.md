@@ -8,6 +8,7 @@
   - [Implicit Shape](#implicit-shape)
   - [3DGS](#3DGS)
   - [Mesh](#Mesh)
+  - [Others](#Others)
 
   ## Websites
 
@@ -57,6 +58,7 @@
 
 |                          Preview                           | Title                                                        |          Publication           |                            Links                             |
 | :--------------------------------------------------------: | :----------------------------------------------------------- | :----------------------------: | :----------------------------------------------------------: |
+|     <img src="assets/img/WorldMirror.png" width="300">     | WorldMirror: Universal 3D World Reconstruction with Any-Prior Prompting |           arXiv 2025           |          [Paper](https://arxiv.org/pdf/2510.10726)           |
 |     <img src="assets/img/FlashWorld.png" width="300">      | FlashWorld: High-quality 3D Scene Generation within Seconds  |           arXiv 2025           | [Paper](https://arxiv.org/pdf/2510.13678) <br/> [Code](https://github.com/imlixinyang/FlashWorld) |
 |       <img src="assets/img/VRSplat.jpg" width="300">       | VRSplat: Fast and Robust Gaussian Splatting for Virtual Reality |           arXiv 2025           |          [Paper](https://arxiv.org/pdf/2505.10144)           |
 |     <img src="assets/img/GaussianSDF.jpg" width="300">     | Gaussian Splatting with Discretized SDF for Relightable Assets |           arXiv 2025           |          [Paper](https://arxiv.org/pdf/2507.15629)           |
@@ -110,3 +112,9 @@
 
 
 ---
+
+  ## Others
+
+|                    Preview                    | Title                                                        | Publication |                            Links                             |
+| :-------------------------------------------: | :----------------------------------------------------------- | :---------: | :----------------------------------------------------------: |
+| <img src="assets/img/Nano3D.png" width="300"> | NANO3D: A Training-Free Approach for Efficient 3D Editing Without Masks | arXiv 2025  | [Paper](https://arxiv.org/pdf/2510.15019) <br> [Code](https://github.com/JAMESYJL/Nano3D) |
