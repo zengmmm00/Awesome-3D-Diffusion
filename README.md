@@ -58,6 +58,7 @@
 
 |                          Preview                           | Title                                                        |          Publication           |                            Links                             |
 | :--------------------------------------------------------: | :----------------------------------------------------------- | :----------------------------: | :----------------------------------------------------------: |
+|     <img src="assets/img/DiffusionGS.jpg" width="300">     | DiffusionGS: Baking Gaussian Splatting into Diffusion Denoiser for Fast and Scalable Single-stage Image-to-3D Generation and Reconstruction |           ICCV 2025            | [Paper](https://arxiv.org/pdf/2411.14384) <br/> [Code](https://github.com/caiyuanhao1998/Open-DiffusionGS) |
 |     <img src="assets/img/WorldMirror.png" width="300">     | WorldMirror: Universal 3D World Reconstruction with Any-Prior Prompting |           arXiv 2025           |          [Paper](https://arxiv.org/pdf/2510.10726)           |
 |     <img src="assets/img/FlashWorld.png" width="300">      | FlashWorld: High-quality 3D Scene Generation within Seconds  |           arXiv 2025           | [Paper](https://arxiv.org/pdf/2510.13678) <br/> [Code](https://github.com/imlixinyang/FlashWorld) |
 |       <img src="assets/img/VRSplat.jpg" width="300">       | VRSplat: Fast and Robust Gaussian Splatting for Virtual Reality |           arXiv 2025           |          [Paper](https://arxiv.org/pdf/2505.10144)           |
